@@ -1,7 +1,7 @@
 {
     "latest_version": "V2.7.4",
     "mandatory": false,
-    "download_url": "",
-    "sha256": "",
-    "release_notes": "."
+    "download_url": "https://github.com/Milanbreezy/VBA-TAX-POSITION-LAPTOP-UPDATE/releases/download/V2.7.4/VBA.TAX.POSITION.V2.7.4.xlsm",
+    "sha256": "27ef6e19e15675295e82c6c33eec70effa6f5f7862ba43db268e25e4e987d338",
+    "release_notes": "Improved AI officer assisstant response speed, added Quick User Guide, enhanced AI performance, improved system stability, fixed minor bugs and performance issues. We highly recommend updating to the latest version for a faster and better user experience."
 }
