@@ -1,7 +1,7 @@
 {
     "latest_version": "V2.7.5.2",
     "mandatory": false,
-    "download_url": "https://github.com/Milanbreezy/VBA-TAX-POSITION-LAPTOP-UPDATE/releases/download/v2.7.5/VBA.TAX.POSITION.V2.7.5.2.xlsm",
+    "download_url": "https://github.com/Milanbreezy/VBA-TAX-POSITION-LAPTOP-UPDATE/releases/download/V2.7.5.2/VBA.TAX.POSITION.V2.7.5.2.xlsm",
     "sha256": "a85b5e11e9cf54d682d3af87cfcb167e7de33f831d7bebfd4fb6d1226495ebf2",
     "release_notes": "This release includes improvements to the Non-Assessed Scan Form UI, enhanced Tax Position offset and arrears processing, improved system performance and stability, and updated AI Officer Assistant tax knowledge. Additional fixes were also made to TIN identification, offset validation, reconciliation, reporting and KPI updates, while maintaining the existing system functionality."
 }
